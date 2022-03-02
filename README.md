@@ -6,7 +6,7 @@ The Operations Tracker is a simple SPA App. This project will allow users to bet
 
 ## Links
 
-- Live Site URL: 
+- Live Site URL: https://mustafajohnny.github.io/Operations-Tracker/
 
 
 ## Built with
