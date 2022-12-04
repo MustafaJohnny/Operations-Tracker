@@ -1,4 +1,4 @@
-# Operations Tracker - Frontend Project
+# Operations Tracker - Frontend Practical Project
 
 ## Overview
 
